@@ -1,5 +1,3 @@
-#include <vcl.h>
-
 class Stack
 {
        class Node
